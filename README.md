@@ -42,7 +42,8 @@ Think: customer support, customer success, etc...
 
 ## Show Me!
 
-// TODO
+https://user-images.githubusercontent.com/10613140/222983839-42379ecb-e5b3-4d97-822b-5ecb72a41b83.mp4
+
 
 # How to use the PDF Filler with Robocorp Assistant
 _This repository is an example – clone it and modify the `VARIABLES` in the `tasks.robot` file to match your needs_
