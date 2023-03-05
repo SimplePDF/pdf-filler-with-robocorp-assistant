@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/10613140/222983839-42379ecb-e5b3-4d97-
 
 1. Clone this repository
 2. Modify the `VARIABLES` in the `tasks.robot` file
-You should replace the `COMPANY_IDENTIFIER` with your own, and specify the files you want to display in the dropdown.
+_You should replace the `COMPANY_IDENTIFIER` with your own, and specify the files you want to display in the dropdown_
 3. [Connect the PDF Filler to your Robocorp Control Room](#How-to-connect-the-PDF-Filler-to-your-Robocorp-Control-Room)
 
 
@@ -78,5 +78,5 @@ rcc run
 
 1. Create a `FREE` [SimplePDF.eu](https://simplePDF.eu/pricing) account
 2. Configure the Robocorp Integration
-3. Replace the current **`company` identifier** (`yourcompany`) with your own
-4. That's it! Any document filled using this assistant will automatically be sent to **Control Room** for processing!# pdf-filler-with-robocorp-assistant
+3. Replace the `COMPANY_IDENTIFIER` (`yourcompany`) **with your own**
+4. That's it! Any document filled using this assistant will automatically be sent to **Control Room** for processing!
