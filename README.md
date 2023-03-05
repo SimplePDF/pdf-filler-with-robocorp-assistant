@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/10613140/222983839-42379ecb-e5b3-4d97-
 1. Clone this repository
 2. Modify the `VARIABLES` in the `tasks.robot` file
 You should replace the `COMPANY_IDENTIFIER` with your own, and specify the files you want to display in the dropdown.
-3. Connect the PDF Filler to your Robocorp Control Room
+3. [Connect the PDF Filler to your Robocorp Control Room](#How-to-connect-the-PDF-Filler-to-your-Robocorp-Control-Room)
 
 
 ## Via User-Interface (for technical and non-technical users)
